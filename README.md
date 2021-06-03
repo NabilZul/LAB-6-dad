@@ -1,3 +1,3 @@
 # LAB-6-dad
-![GitHub Logo](server.png)
-![GitHub Logo](client.png)
+![GitHub Logo](server.PNG)
+![GitHub Logo](client.PNG)
